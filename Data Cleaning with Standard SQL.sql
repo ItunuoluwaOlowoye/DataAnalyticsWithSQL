@@ -1,6 +1,6 @@
 --Standard SQL
 --These queries were run on Google's BigQuery data warehouse
---Run each line of code separated by a comment separately
+--Run each line of code separated by a select statement separately
 --This dataset contains details about a furniture store
 SELECT  
     *
